@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 <h1 align="center">Isabela Chiocheta</h1>
 <p align="center">Estudante de Ciência da Computação na UFFS e Técnica em Informática pelo IFSC.</p>
@@ -45,5 +45,5 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
