@@ -5,8 +5,8 @@
 <p align="center">Seja bem-vindo(a) ao meu perfil!</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=isachiocheta&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub de Isabela Chiocheta"/>
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=isachiocheta&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais utilizadas"/>
+  <img height="160em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=isachiocheta&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub de Isabela Chiocheta"/>
+  <img height="160em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=isachiocheta&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais utilizadas"/>
 </div>
 
 <div align="center">  
