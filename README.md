@@ -4,14 +4,9 @@
 <p align="center">Estudante de Ciência da Computação na UFFS e Técnica em Informática pelo IFSC.</p>
 <p align="center">Seja bem-vindo(a) ao meu perfil!</p>
 
-<div align="center">  
-  <img width="49%" height="195px"
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=isachiocheta&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117"
-       alt="Estatísticas GitHub de Isabela Chiocheta"/>
-
-  <img width="41%" height="195px"
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=isachiocheta&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117"
-       alt="Linguagens mais utilizadas"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=isachiocheta&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub de Isabela Chiocheta"/>
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=isachiocheta&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais utilizadas"/>
 </div>
 
 <div align="center">  
@@ -19,8 +14,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
----
 
 ### Principais Habilidades:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
