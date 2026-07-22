@@ -37,4 +37,17 @@
 
 ---
 
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isachiocheta&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&title_color=C9D1D9&text_color=C9D1D9"
+  />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=isachiocheta&theme=github-dark&hide_border=true&background=00000000"
+  />
+</div>
+
+---
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
